@@ -1,15 +1,13 @@
 # ProyectoAdrian2
 ## OBJETIVO
-Controlar el tiempo de operación de un sistema de radiación UVC a través de la comunicación Bluethooth entre la aplicación móvil y el controlador(arduino), los tiempos de operación son 30s y 1min.
+Controlar el tiempo de operación de un sistema de radiación UVC a través de la comunicación Bluetooth entre la aplicación móvil y el controlador(arduino), los tiempos de operación son 30s y 1min.
 ## Descripción del logo y lo que representa.
 El logo elegido por el momento representa una lampara de radiación UVC; mostrando las emisiones hacía unos tipos de coronavirus.
 ## Justificación de la elección del tipo de dispositivo, versión del sistema operativo y las orientaciones soportadas.
-<div align="justify"> Se eligió un dispositivo teléfono Android, ya que es prácticamente a lo que todos como usuarios tenemos acceso y utilizamos más en nuestros días. 
-La versión del sistema operativo es hasta Android 11, ya que Android superior la aplicación truena. Problema en cuestión que también se tuvo en el módulo de Android avanzado, en donde al utilizar bluetooth, en muchos dispositivos ni siquiera dejaba instalarla.
-La aplicación fue probada en un motorola g9 versión Android 11, funciona correctamente.
-También se probó en un Xiaomi versión Android 13, pero la aplicación truena, no permite siquiera instalarla. Es importante lo que se menciona que esta aplicación es para versión “Android 11”
-
+<div align="justify"> Se eligió un dispositivo teléfono iOS, ya que es prácticamente a lo que todos como usuarios tenemos acceso y utilizamos más en nuestros días. 
+La versión del sistema operativo es iOS 16.0, que es la versión del simulador donde se ejecutó la app ya que desafortunadamente no se cuenta con teléfono iOS en mi casa, y económicamente me es imposible por el momento de adquirir. Por lo que el funcionamiento de la conexión por medio de bluetooth al controlador no se pudo probar (AUNQUE EL CODIGO SE REALIZO), por todo lo demás en cronometro y la persistencia de datos CRUD, todo está en orden. A diferencia del proyecto para Android donde se probó la aplicación con la comunicación bluetooth con éxito.
 La orientación planteada desde el inicio del proyecto fue vertical. No es una aplicación que requiera cambiar de orientación como en el caso de videojuegos.
+
  
  ## Credenciales
    No se requieren.
