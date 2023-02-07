@@ -5,7 +5,7 @@ Controlar el tiempo de operación de un sistema de radiación UVC a través de l
 El logo elegido por el momento representa una lampara de radiación UVC; mostrando las emisiones hacía unos tipos de coronavirus.
 ## Justificación de la elección del tipo de dispositivo, versión del sistema operativo y las orientaciones soportadas.
 <div align="justify"> Se eligió un dispositivo teléfono iOS, ya que es prácticamente a lo que la mayoria de los usuarios tenemos acceso y utilizamos más en nuestros días. 
-La versión del sistema operativo es iOS 16.0, que es la versión del simulador donde se ejecutó la app ya que desafortunadamente no se cuenta con teléfono iOS en mi casa, y económicamente me es imposible por el momento de adquirir. Por lo que el funcionamiento de la conexión por medio de bluetooth al controlador no se pudo probar (AUNQUE EL CODIGO SE REALIZO), por todo lo demás en cronometro y la persistencia de datos CRUD, todo está en orden. A diferencia del proyecto para Android donde se probó la aplicación con la comunicación bluetooth con éxito.
+La versión del sistema operativo es iOS 16.0, que es la versión del simulador donde se ejecutó la app ya que desafortunadamente no se cuenta con teléfono iOS en mi casa, y económicamente me es imposible por el momento de adquirir.
 La orientación planteada desde el inicio del proyecto fue vertical. No es una aplicación que requiera cambiar de orientación como en el caso de videojuegos.
 
  
